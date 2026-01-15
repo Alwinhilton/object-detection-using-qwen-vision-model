@@ -97,6 +97,7 @@ Qwen3-VL Object Detection (Advanced)
 
 # 🗂️ Project Structure
 ├── app.py              # Main application script
+
 ├── README.md           # Project documentation
 
 # ⚙️ How It Works
